@@ -71,3 +71,21 @@ $RECYCLE.BIN/
 
 
 # End of https://www.gitignore.io/api/linux,macos,windows
+
+
+
+# Created by https://www.gitignore.io/api/git,mercurial
+
+### Git ###
+*.orig
+
+### Mercurial ###
+.hg/
+.hgignore
+.hgsigs
+.hgsub
+.hgsubstate
+.hgtags
+
+
+# End of https://www.gitignore.io/api/git,mercurial
