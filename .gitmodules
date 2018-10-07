@@ -1,3 +1,6 @@
 [submodule "library/jfuzzylite"]
 	path = library/jfuzzylite
 	url = https://github.com/fuzzylite/jfuzzylite.git
+[submodule "library/fuzzylite"]
+	path = library/fuzzylite
+	url = https://github.com/fuzzylite/fuzzylite.git
